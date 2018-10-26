@@ -10,7 +10,7 @@ class Users{
     public $comments = [];
     public $group = "Admin";
     public $user = "user1";
-    protected $id = 2;
+    public $id = 2;
     private $password = 1111;
 
     public function Comments(){
